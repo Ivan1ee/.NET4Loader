@@ -25,5 +25,7 @@ dotNet安全矩阵星球从创建以来一直聚焦于.NET领域的安全攻防�
   - [.NET Regasm](https://mp.weixin.qq.com/s/6DA1muWH67bD97eLxLvdwg)
 - 2023-11-06 
   - [.NET Regsvcs+InStallUtil](https://mp.weixin.qq.com/s/R23EvnYtOVPG_vg8R957EA)
+- 2023-10-28 
+  - [.NET Sharp4UUIDLoader](https://mp.weixin.qq.com/s/3BmdgLKtgsEXsZqt6Tg2TA)
  
 
