@@ -19,6 +19,8 @@ dotNet安全矩阵星球从创建以来一直聚焦于.NET领域的安全攻防�
 ---
 # 更新日志
 
+- 2023-11-27 
+  - [分享两个.NET绕过防护加载PE的Loader](https://mp.weixin.qq.com/s/In3FEpzLukNcF3rquqowOw)
 - 2023-11-17 
   - [.NET Sharp4SetTimerLoader](https://mp.weixin.qq.com/s/8ujqGg9ArCzvK_pviCefQQ)
 - 2023-11-16 
