@@ -19,6 +19,8 @@ dotNet安全矩阵星球从创建以来一直聚焦于.NET领域的安全攻防�
 ---
 # 更新日志
 
+- 2024-08-22 
+  - [.NET 一款免杀的白名单Shellcode加载器](https://mp.weixin.qq.com/s/qmgaeyDcwC1yKznzZtjEbA)
 - 2024-01-04 
   - [.NET分享一款免杀的Shellcode Loader](https://mp.weixin.qq.com/s/j_qLSe8ugxw2LFWWj9TCkw)
 - 2023-11-27 
